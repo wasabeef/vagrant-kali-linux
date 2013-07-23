@@ -1,4 +1,4 @@
-Vagrant Boxes
+Vagrant Boxes - Kali Linux
 =============================
 
 
