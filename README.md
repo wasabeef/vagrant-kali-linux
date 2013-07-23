@@ -11,3 +11,5 @@ md5 : bdc4bf7c95883fccec1b3e068d79ec70
 ---  
 
 Kali Linux 1.0 i686 Japanese  
+
+    Comming Soon 
