@@ -1,4 +1,11 @@
-vagrant-box-kali-linux-1.0
+Vagrant Boxes
 =============================
 
-Vagrant Box - Kali Linux (Japanese Mode)
+
+Kali Linux 1.0 i686 English
+
+    http://dalvik.jp/vagrant/KaliLinux-1.0-en-i686.box
+    
+---
+
+Kali Linux 1.0 i686 Japanese
