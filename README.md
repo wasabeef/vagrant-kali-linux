@@ -22,7 +22,7 @@ md5 : 2f26ab634538026d60bf4323ab90a269
     # vagrant box add kali-jp http://dalvik.jp/vagrant/KaliLinux-1.0-jp-i686.box 
 
 
-## Running Kali linux 1.0
+## Running Kali linux 1.0.x
 
     # vagrant init kali (or kali-jp)
     # vagrant up kali (or kali-jp)
